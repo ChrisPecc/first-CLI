@@ -8,7 +8,7 @@ var myArgs = process.argv.slice(2);
 
 var country = myArgs[0];
 var countrycode = getCode(country);
-if (countrycode== undefined){
+if (countrycode == undefined){
     console.log("This is not a proper country name or the country is not supported by the API. \nCheck at https://date.nager.at/Home/Countries to see the list of supported countries.")
 }
 
