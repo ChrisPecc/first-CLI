@@ -1,0 +1,23 @@
+{
+  "name": "first-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPecc/first-CLI.git"
+  },
+  "author": "Christophe Pecceu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisPecc/first-CLI/issues"
+  },
+  "homepage": "https://github.com/ChrisPecc/first-CLI#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "country-list": "^2.2.0"
+  }
+}
