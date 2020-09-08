@@ -10,12 +10,12 @@ A small CLI that gives you the you the holidays of the current year for a countr
 
 To run it, just type holidates and the name of the desired country.
 
-For example \n
+For example\
 ```holidates Chile```
 
 ## Links
 
-[Github repository](https://github.com/ChrisPecc/first-CLI)
+[Github repository](https://github.com/ChrisPecc/first-CLI)\
 [Npm link](https://www.npmjs.com/package/@chrispecc/holidates)
 
 ## Misc
